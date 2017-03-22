@@ -1,0 +1,6 @@
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\picoplaca\obj\Debug\picoplaca.csprojResolveAssemblyReference.cache
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\picoplaca\bin\Debug\picoplaca.exe.config
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\picoplaca\bin\Debug\picoplaca.exe
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\picoplaca\bin\Debug\picoplaca.pdb
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\picoplaca\obj\Debug\picoplaca.exe
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\picoplaca\obj\Debug\picoplaca.pdb

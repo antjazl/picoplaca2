@@ -1,0 +1,15 @@
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\UnitTest2\bin\Debug\UnitTest2.dll
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\UnitTest2\bin\Debug\UnitTest2.pdb
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\UnitTest2\bin\Debug\picoplaca.exe
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\UnitTest2\bin\Debug\picoplaca.pdb
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\UnitTest2\bin\Debug\picoplaca.exe.config
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\UnitTest2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\UnitTest2\obj\Debug\UnitTest2.dll
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\UnitTest2\obj\Debug\UnitTest2.pdb
+C:\Users\luisa\OneDrive\Documents\Visual Studio 2017\Projects\picoplaca\UnitTest2\obj\Debug\UnitTest2.csprojResolveAssemblyReference.cache
